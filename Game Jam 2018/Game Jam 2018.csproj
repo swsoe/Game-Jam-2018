@@ -88,6 +88,7 @@
     <Compile Include="Assets\brians base code\#GameScripts\Restart.cs" />
     <Compile Include="Assets\brians base code\ActivateScriptOnTrigger.cs" />
     <Compile Include="Assets\brians base code\AimAtPlayer.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\AutoShoot.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\BurstFireCannon.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\DamageOnCol.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\DisableOnOffscreen.cs" />
