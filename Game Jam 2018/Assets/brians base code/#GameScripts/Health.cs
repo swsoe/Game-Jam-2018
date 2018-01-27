@@ -8,28 +8,15 @@ public class Health : MonoBehaviour {
     public int currentHealth;
     public int maxHealth;
 
-    
-    // Use this for initialization
-    private void OnEnable() {
-        GameManager.PlayerDeath += PlayerDies;
-        GameManager.PlayerDeath += ResetHealth;
-        
+    private void Start() {
+        currentHealth = maxHealth;
     }
-
-    private void OnDisable() {
-       GameManager.PlayerDeath -= ResetHealth;
-        GameManager.PlayerDeath -= PlayerDies;
-    }
-    void Start () {
-        ResetHealth();
-        
-	}
-
     public void TakeDamage(int damage) {
         //Debug.Log(gameObject.name + " has taken " + damage + " points of damage");
         currentHealth -= damage;
         if (this.currentHealth <= 0 && this.gameObject.tag == "Player") {
             //Debug.Log("PlayerDies");
+            currentHealth = maxHealth;
             GameManager.Instance.CallPlayerDeath();
         }
         else if (this.currentHealth <= 0 && this.gameObject.tag != "Player") {
@@ -39,15 +26,7 @@ public class Health : MonoBehaviour {
         }
     }
 
-    public void PlayerDies() {
-        //play death animation and sound effects
-        
-        if (this.gameObject.tag == "Player") {
-            currentHealth = 0;
-            this.gameObject.SetActive(false);
-            return;
-        }
-    }
+ 
 
     public void EnemyDeath() {
         // Modify the points for each enemy based on health
@@ -60,9 +39,5 @@ public class Health : MonoBehaviour {
       //  }
     }    
 
-        void ResetHealth() {
-        
-        currentHealth = maxHealth;
-        
-        }
+  
   }

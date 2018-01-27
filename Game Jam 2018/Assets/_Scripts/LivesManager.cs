@@ -5,22 +5,53 @@ using UnityEngine.UI;
 
 public class LivesManager : MonoBehaviour {
 
-    [SerializeField] int liveSize = 64;
-    float width;
-    public Image lifeBar;
-	// Use this for initialization
-	void Start () {
-        var theBarRectTransform = lifeBar.transform as RectTransform;
-        theBarRectTransform.sizeDelta = new Vector2(width, theBarRectTransform.sizeDelta.y);
+    [SerializeField] int currentLives;
+    [SerializeField] int maxLives = 3;
+    public Text livesRemaining;
+
+    private void OnEnable() {
+        GameManager.PlayerDeath += PlayerDies;
+
+    }
+    private void OnDisable() {
+        GameManager.PlayerDeath -= PlayerDies;
+    }
+    // Use this for initialization
+    void Start () {
+        currentLives = maxLives;
+        UpdateDisplay();
     }
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetButton(KeyCode.KeypadEnter)) {
-            UpdateDisplay();
-        }
+  
 	}
-    void UpdateDisplay() {
-        lifeBar.rectTransform.sizeDelta.x -= liveSize;
+    void LoseLife() {
+        currentLives--;
+        UpdateDisplay();
+        if(currentLives <= 0) {
+            GameOver();
+        }
     }
+
+    void GameOver() {
+        Debug.Log("gameover");
+    }
+
+    void UpdateDisplay() {
+        if(currentLives > 0) {
+            livesRemaining.text = "Lives: " + currentLives;
+        }
+        
+    }
+    public void PlayerDies() {
+        //play death animation and sound effects
+        LoseLife();
+        if (this.gameObject.tag == "Player") {
+
+            this.gameObject.SetActive(false);
+            return;
+        }
+    }
+
 }
