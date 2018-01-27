@@ -1040,6 +1040,7 @@
     <Compile Include="Assets\PlayMaker\Actions\Vector3\Vector3Subtract.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Web\WWWObject.cs" />
     <Compile Include="Assets\PlayMaker\Templates\torque rotation.cs" />
+    <Compile Include="Assets\PlayMaker\Templates\torque script from template.cs" />
     <Compile Include="Assets\PlayMaker\UpdateHelper.cs" />
   </ItemGroup>
   <ItemGroup>
