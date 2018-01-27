@@ -9,7 +9,8 @@ public class RpmMechanic : MonoBehaviour {
     #region vars
     public MoveForward playArea;
     public Slider img_rpm;
-
+    public Text txtCurrentGear;
+    int currentGear = 1;
     [SerializeField] float currentRPM = 0;
     [SerializeField] float targetRPM;
     [SerializeField] Vector2 windowForShift;
@@ -29,6 +30,7 @@ public class RpmMechanic : MonoBehaviour {
         }
         windowForShift.x = targetRPM - range;
         windowForShift.y = targetRPM + range;
+        txtCurrentGear.text = "" + currentGear;
 
     }
 	
@@ -60,11 +62,10 @@ public class RpmMechanic : MonoBehaviour {
                 }
 
             }
-            Debug.Log("cant shift yet");
+
      
         }
         if (currentRPM >= maxRPM) {
-            Debug.Log("max speed, you explode");
             LoseLife();
         }
     }
@@ -77,6 +78,8 @@ public class RpmMechanic : MonoBehaviour {
         Debug.Log("we shifted");
         playArea.speed += inciment;
         baseSpeed /= 1.5f;
+        currentGear++;
+        txtCurrentGear.text = "" + currentGear;
         ResetShifter();
     }
     float calculateUI() {
