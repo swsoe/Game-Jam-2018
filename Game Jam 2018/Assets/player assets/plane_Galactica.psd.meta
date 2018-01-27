@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 10db57d8a56a4ac419e57d419bcd8f90
-timeCreated: 1517071691
+timeCreated: 1517074940
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -89,10 +89,10 @@ TextureImporter:
       name: plane_Galactica_0
       rect:
         serializedVersion: 2
-        x: 33
+        x: 34
         y: 0
-        width: 1583
-        height: 2039
+        width: 1580
+        height: 2038
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -103,10 +103,10 @@ TextureImporter:
       name: plane_Galactica_1
       rect:
         serializedVersion: 2
-        x: 1683
+        x: 1685
         y: 0
-        width: 1584
-        height: 2039
+        width: 1581
+        height: 2038
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,10 +117,10 @@ TextureImporter:
       name: plane_Galactica_2
       rect:
         serializedVersion: 2
-        x: 3334
+        x: 3336
         y: 0
-        width: 1583
-        height: 2039
+        width: 1581
+        height: 2038
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
