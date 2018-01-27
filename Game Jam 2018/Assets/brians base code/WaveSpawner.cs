@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class WaveSpawner : MonoBehaviour, Assets._Scripts.SpawningBase
+public class WaveSpawner : Assets._Scripts.SpawningBase
 {
 
     public GameObject[] enemies;
@@ -12,12 +12,13 @@ public class WaveSpawner : MonoBehaviour, Assets._Scripts.SpawningBase
 	// Use this for initialization
 	void Start ()
     {
-        IEnumerator spawnFunction = Spawn();
-        StartCoroutine(spawnFunction);
+        //IEnumerator spawnFunction = Spawn();
+        //StartCoroutine(spawnFunction);
 	}
 	
-	public IEnumerator Spawn ()
+	public override IEnumerator Spawn ()
     {
+        //Debug.Log("Spawning Wave");
         for (int i = 0; i < enemies.Length; i++)
         {
             //Debug.Log("Spawning " + i.ToString());
