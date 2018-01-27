@@ -7,9 +7,6 @@ public class MenuSystem : MonoBehaviour {
     public GameObject[] playerPrefab;
     [SerializeField] int selectedPlayer;
 
-    private void Awake() {
-        clearprefs();
-    }
 
     public void Razer() {
         PlayerPrefs.SetInt("playerIndex", 0);
@@ -27,9 +24,6 @@ public class MenuSystem : MonoBehaviour {
         PlayerPrefs.SetInt("playerIndex", 2);
         Debug.Log(PlayerPrefs.GetInt("playerIndex"));
         SceneManager.LoadScene(0);
-    }
-    void clearprefs() {
-        PlayerPrefs.DeleteAll();
     }
 }
 
