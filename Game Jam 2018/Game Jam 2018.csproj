@@ -85,22 +85,32 @@
     <Compile Include="Assets\brians base code\#GameScripts\ObjectPooler.cs" />
     <Compile Include="Assets\brians base code\#GameScripts\PoolingManager.cs" />
     <Compile Include="Assets\brians base code\#GameScripts\Restart.cs" />
+    <Compile Include="Assets\brians base code\ActivateScriptOnTrigger.cs" />
+    <Compile Include="Assets\brians base code\AimAtPlayer.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\BurstFireCannon.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\DamageOnCol.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\DisableOnOffscreen.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\HitNearestTarget.cs" />
     <Compile Include="Assets\brians base code\BulletScripts\Shoot.cs" />
+    <Compile Include="Assets\brians base code\DisableOverTime.cs" />
+    <Compile Include="Assets\brians base code\DropLoot.cs" />
     <Compile Include="Assets\brians base code\EnemyMovement\FlightPath.cs" />
     <Compile Include="Assets\brians base code\EnemyMovement\MoveBackandForth.cs" />
     <Compile Include="Assets\brians base code\EnemyMovement\TestMove.cs" />
     <Compile Include="Assets\brians base code\EnemyMovement\ZigZag.cs" />
+    <Compile Include="Assets\brians base code\Loot.cs" />
     <Compile Include="Assets\brians base code\PlayerScripts\DeathOnEnemyCol.cs" />
     <Compile Include="Assets\brians base code\PlayerScripts\PlayerMovement.cs" />
     <Compile Include="Assets\brians base code\PlayerScripts\PlayerProgression.cs" />
     <Compile Include="Assets\brians base code\PlayerScripts\PlayerWeapons.cs" />
+    <Compile Include="Assets\brians base code\RandomDirForce.cs" />
+    <Compile Include="Assets\brians base code\RandomSpeed.cs" />
+    <Compile Include="Assets\brians base code\RotateTurretOverTime.cs" />
+    <Compile Include="Assets\brians base code\SineWave.cs" />
     <Compile Include="Assets\brians base code\StatusChangeScripts\PowerDownOnCol.cs" />
     <Compile Include="Assets\brians base code\StatusChangeScripts\Powerup.cs" />
     <Compile Include="Assets\brians base code\StatusChangeScripts\Tentacle.cs" />
+    <Compile Include="Assets\brians base code\WaveSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\brians base code\Kenny\Spritesheet\sheet.xml" />
