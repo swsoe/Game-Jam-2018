@@ -3388,8 +3388,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedPlayer:
   - {fileID: 1640066869580528, guid: 5d223d121334a4d4b9b49da8f313a2be, type: 2}
-  - {fileID: 1434640757912580, guid: d7cfb40b094aacc49b5d2eed1f16f714, type: 2}
-  - {fileID: 1589774555423350, guid: 6025e7b5d643fee479d5df6b2d3d0217, type: 2}
+  - {fileID: 1640066869580528, guid: 01165fa4d2c92134db5482ff312515c1, type: 2}
+  - {fileID: 1640066869580528, guid: 8f775a4f42adc0f47a2f31ebf97ae42b, type: 2}
 --- !u!1 &1429878360
 GameObject:
   m_ObjectHideFlags: 0
