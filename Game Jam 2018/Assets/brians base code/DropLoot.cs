@@ -11,11 +11,11 @@ public class DropLoot : MonoBehaviour {
     public int qtyToSpawn = 3;
 
     private void OnEnable() {
-        GameManager.SpawnLoot += Spawn;
+        //GameManager.SpawnLoot += Spawn;
     }
 
     private void OnDisable() {
-        GameManager.SpawnLoot -= Spawn;
+       // GameManager.SpawnLoot -= Spawn;
     }
 
     void Spawn() {

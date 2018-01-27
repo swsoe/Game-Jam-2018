@@ -5,28 +5,24 @@ using UnityEngine;
 public class Shoot : MonoBehaviour {
     public GameObject bulletPrefab;
     public float shootDelay = .5f;
+    public bool shooting = false;
 
-
-    private void OnDisable() {
-        CancelInvoke();
+    void Update()
+    {
+        if (!shooting && Input.GetButton("Fire1") && this.gameObject.activeSelf)
+        {
+            shooting = true;
+            InvokeRepeating("ShootForward", shootDelay, shootDelay);
+        }
+        else if (shooting && (!Input.GetButton("Fire1") || !this.gameObject.activeSelf))
+        {
+            shooting = false;
+            CancelInvoke();
+        }
     }
-    private void OnEnable() {
-        InvokeRepeating("ShootForward", shootDelay, shootDelay);
-    }
-    
 
-    void  ShootForward() {
+    void  ShootForward()
+    {
         PoolingManager.InstantiatePooled(bulletPrefab, transform.position, transform.rotation);
-        
-        /*
-        GameObject obj = ObjectPooler.current.GetPooledObjects(bulletPrefab);
-        if (obj == null) return;
-            //GameObject newObj = bsc.ChangeSprite(obj);
-
-        obj.transform.position = transform.position;
-        obj.transform.rotation = transform.rotation;
-        obj.transform.gameObject.SetActive(true);
-        */
-
     }
 }
