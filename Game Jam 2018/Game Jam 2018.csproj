@@ -862,6 +862,7 @@
     <Compile Include="Assets\_Scripts\MenuSystem.cs" />
     <Compile Include="Assets\_Scripts\PlayerSelect.cs" />
     <Compile Include="Assets\_Scripts\RpmMechanic.cs" />
+    <Compile Include="Assets\_Scripts\SpawnerMaster.cs" />
     <Compile Include="Assets\_Scripts\SpawningBase.cs" />
     <Compile Include="Assets\_Scripts\TurretSpawn.cs" />
     <Compile Include="Assets\_Scripts\TurretSpawnMaster.cs" />
