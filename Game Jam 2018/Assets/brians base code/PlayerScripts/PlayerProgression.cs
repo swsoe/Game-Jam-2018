@@ -12,11 +12,11 @@ public class PlayerProgression : MonoBehaviour {
     #endregion
 
     private void Start() {
-        GameManager.UpdateProgress += UpdateCredits;
+       // GameManager.UpdateProgress += UpdateCredits;
     }
 
-    public void UpdateCredits(int creditsEarned) {
+   // public void UpdateCredits(int creditsEarned) {
         
-        availableCredits += creditsEarned;
-    }
+     //   availableCredits += creditsEarned;
+    //}
 }

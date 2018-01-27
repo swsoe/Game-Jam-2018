@@ -75,7 +75,7 @@ public class RpmMechanic : MonoBehaviour {
         windowForShift.y = targetRPM + range;
     }
     public void ShiftUp() {
-        Debug.Log("we shifted");
+
         playArea.speed += inciment;
         baseSpeed /= 1.5f;
         currentGear++;

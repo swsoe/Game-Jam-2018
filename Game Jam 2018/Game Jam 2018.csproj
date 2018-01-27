@@ -90,6 +90,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\LivesManager.cs" />
     <Compile Include="Assets\_Scripts\MenuSystem.cs" />
     <Compile Include="Assets\_Scripts\PlayerSelect.cs" />
     <Compile Include="Assets\_Scripts\RpmMechanic.cs" />
