@@ -32,7 +32,7 @@ namespace Assets._Scripts
             for (int i = 0; i < level; i++)
             {
                 //Debug.Log("Spawning in");
-                SpawningBase x = enemySpawners[r.Next(0, enemySpawners.Count - 1)].GetComponent<SpawningBase>();
+                SpawningBase x = enemySpawners[i].GetComponent<SpawningBase>();
                 if (x == null)
                     Debug.Log("Error");
                 IEnumerator e = x.Spawn();

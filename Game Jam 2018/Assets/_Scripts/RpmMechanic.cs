@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Assets._Scripts;
 
 
 public class RpmMechanic : MonoBehaviour {
 
     #region vars
     public MoveForward playArea;
+    SpawnerMaster sm;
     public Slider img_rpm;
     public Text txtCurrentGear;
     int currentGear = 1;
@@ -33,7 +35,7 @@ public class RpmMechanic : MonoBehaviour {
         windowForShift.x = targetRPM - range;
         windowForShift.y = targetRPM + range;
         txtCurrentGear.text = "" + currentGear;
-
+        sm = gameObject.GetComponent<SpawnerMaster>();
     }
 	
 	// Update is called once per frame
@@ -78,6 +80,7 @@ public class RpmMechanic : MonoBehaviour {
     public void ShiftUp() {
 
         playArea.speed += inciment;
+        sm.spawnRate -= inciment;
         baseSpeed /= 1.5f;
         currentGear++;
         txtCurrentGear.text = "" + currentGear;
