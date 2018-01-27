@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Border
   - Enemy
+  - Fire
+  - TurretSpawn
+  - Spawners
   layers:
   - Default
   - TransparentFX

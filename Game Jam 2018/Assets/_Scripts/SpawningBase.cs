@@ -7,8 +7,12 @@ using UnityEngine;
 
 namespace Assets._Scripts
 {
-    interface SpawningBase
+    public abstract class SpawningBase : MonoBehaviour
     {
-        IEnumerator Spawn();
+        public virtual IEnumerator Spawn()
+        {
+            Debug.Log("Error on base");
+            return null;
+        }
     }
 }
