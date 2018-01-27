@@ -498,9 +498,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: SendEvent
-        m_Mode: 5
+      - m_Target: {fileID: 1673008721}
+        m_MethodName: Spearhead
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -784,9 +784,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: SendEvent
-        m_Mode: 5
+      - m_Target: {fileID: 1673008721}
+        m_MethodName: Razer
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -959,9 +959,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPrefab:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1640066869580528, guid: 5d223d121334a4d4b9b49da8f313a2be, type: 2}
+  - {fileID: 1434640757912580, guid: d7cfb40b094aacc49b5d2eed1f16f714, type: 2}
+  - {fileID: 1589774555423350, guid: 6025e7b5d643fee479d5df6b2d3d0217, type: 2}
+  selectedPlayer: 0
 --- !u!1 &1726238752
 GameObject:
   m_ObjectHideFlags: 0
@@ -1114,9 +1115,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: SendEvent
-        m_Mode: 5
+      - m_Target: {fileID: 1673008721}
+        m_MethodName: Galactica
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
