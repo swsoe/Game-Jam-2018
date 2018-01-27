@@ -22,6 +22,8 @@ public class RpmMechanic : MonoBehaviour {
 
 
     #endregion
+
+
     // Use this for initialization
     void Awake () {
         
@@ -62,11 +64,10 @@ public class RpmMechanic : MonoBehaviour {
                 }
 
             }
-
-     
         }
         if (currentRPM >= maxRPM) {
-            LoseLife();
+            ResetShifter();
+            Debug.Log("TODO: you didnt shift, consequences");
         }
     }
     void IncreaseTargetRPM() {
@@ -75,7 +76,7 @@ public class RpmMechanic : MonoBehaviour {
         windowForShift.y = targetRPM + range;
     }
     public void ShiftUp() {
-        Debug.Log("we shifted");
+
         playArea.speed += inciment;
         baseSpeed /= 1.5f;
         currentGear++;
@@ -86,10 +87,10 @@ public class RpmMechanic : MonoBehaviour {
         return currentRPM / maxRPM;
     }
 
-    void LoseLife() {
-        Debug.Log("lose a life, should have shifted");
-        ResetShifter();
-    }
+    
+        
+        
+    
     private void ResetShifter() {
         currentRPM = 0;
     }

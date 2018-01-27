@@ -23,6 +23,9 @@ GameObject:
   m_Layer: 0
   m_Name: TurretSpawner
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Player-setup
   m_TagString: Untagged
 =======
   m_TagString: TurretSpawn

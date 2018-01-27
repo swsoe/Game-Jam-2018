@@ -65,7 +65,7 @@ public class PlayerWeapons : MonoBehaviour {
         foreach (GameObject go in barrels) {
             go.SetActive(false);
         }
-        Debug.Log("WeaponsOffline");
+ 
     }
     void EnableWeapons() {
         List<GameObject> activeWeapons = GetWeaponsToActivate();
