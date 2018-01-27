@@ -55,8 +55,6 @@ public class Health : MonoBehaviour {
             currentHealth = 0;
             int pointsToGive = (int)(maxHealth * GameManager.Instance.pointModifier);
             GameManager.Instance.CallEarnedPoints(pointsToGive);
-
-
             Destroy(this.gameObject);
         
       //  }
@@ -67,7 +65,4 @@ public class Health : MonoBehaviour {
         currentHealth = maxHealth;
         
         }
-
- 
-    
-}
+  }
