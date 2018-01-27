@@ -58,6 +58,7 @@ public  class GameManager : MonoBehaviour {
     #endregion
 
     private void Start() {
+     
         playerLives = maxLives;
       
         //progression = GetComponent<PlayerProgression>();
@@ -87,38 +88,30 @@ public  class GameManager : MonoBehaviour {
         txtCredits.text = currentCredits.ToString();
     }
 
-    public void NewHighScore(int score) {
-        //highScore = score;
-        //TODO: make some sort of visuals and update the visual display
-    }
 
     public void CallPlayerDeath() {
         PlayerDeath();
-        bool lastLife = LoseLife();
+       bool lastLife = LoseLife();
         if (!lastLife) {
             StartCoroutine(WaitForRespawn());
             //TODO update life display
         }
-        else {
-            CallGameOver();
-        }
+      
     }
 
     public void CallGameOver() {
         GameOver();
     }
-
-
-
-        IEnumerator WaitForRespawn() {
+         IEnumerator WaitForRespawn() {
         yield return new WaitForSeconds(respawnTime);
         //Debug.Log("Calling the delegate");
         RespawnPlayer();
     }
 
+
     bool LoseLife() {
         bool isGameOver = false;
-        playerLives--;
+        playerLives = GameObject.FindObjectOfType<LivesManager>().currentLives;
         if(playerLives <= 0) {
             isGameOver = true;
             return isGameOver;

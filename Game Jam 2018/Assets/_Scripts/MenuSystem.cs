@@ -11,19 +11,19 @@ public class MenuSystem : MonoBehaviour {
     public void Razer() {
         PlayerPrefs.SetInt("playerIndex", 0);
 
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void Galactica() {
         PlayerPrefs.SetInt("playerIndex", 1);
 
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void Spearhead() {
         PlayerPrefs.SetInt("playerIndex", 2);
 
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }
 
