@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class RpmMechanic : MonoBehaviour {
 
     #region vars
+    public MoveForward playArea;
     public Slider img_rpm;
 
 
@@ -20,8 +21,12 @@ public class RpmMechanic : MonoBehaviour {
 
     #endregion
     // Use this for initialization
-    void Start () {
+    void Awake () {
         
+        if(playArea == null) {
+            Debug.LogWarning("play area NOT ASSIGNED");
+        }
+       
 	}
 	
 	// Update is called once per frame
@@ -39,7 +44,10 @@ public class RpmMechanic : MonoBehaviour {
         if (currentRPM >= targetRPM) {
             currentRPM = targetRPM;
             IncreaseTargetRPM();
-            ShiftUp();
+            if(playArea != null) {
+                ShiftUp();
+            }
+            
         } 
         if(currentRPM >= maxRPM) {
             Debug.Log("max speed, you explode");
@@ -52,6 +60,7 @@ public class RpmMechanic : MonoBehaviour {
     }
     public void ShiftUp() {
         Debug.Log("we shifted");
+        playArea.speed += inciment;
     }
     float calculateUI() {
         return currentRPM / maxRPM;

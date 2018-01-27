@@ -1,11 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Jam 2018.Plugins", "Game Jam 2018.Plugins.csproj", "{8BC7371B-069A-6217-753F-9277225BA436}"
 EndProject
-=======
->>>>>>> 605c2a6dff06278630b3c4440fc241885a53e699
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Jam 2018", "Game Jam 2018.csproj", "{54882CD5-6D0D-91A7-9E53-5EF38500AB8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Jam 2018.Editor", "Game Jam 2018.Editor.csproj", "{E8E53D21-3512-AC15-3E67-529C6A4DC454}"
