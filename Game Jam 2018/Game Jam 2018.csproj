@@ -15,8 +15,13 @@
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
+<<<<<<< HEAD
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
     <UnityVersion>5.5.4p4</UnityVersion>
+=======
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityVersion>2017.1.1f1</UnityVersion>
+>>>>>>> 28746ba3a616a7cfef54c0aaae78f2e303a02d5f
     <RootNamespace></RootNamespace>
     <LangVersion>4</LangVersion>
   </PropertyGroup>
@@ -27,8 +32,13 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD
     <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_4;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VIDEO;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_VSTU;CROSS_PLATFORM_INPUT;PLAYMAKER;PLAYMAKER_1_8;PLAYMAKER_1_8_9;PLAYMAKER_1_8_OR_NEWER;PLAYMAKER_1_8_5_OR_NEWER</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+=======
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_1;UNITY_2017_1;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;CROSS_PLATFORM_INPUT;PLAYMAKER;PLAYMAKER_1_8;PLAYMAKER_1_8_9;PLAYMAKER_1_8_OR_NEWER;PLAYMAKER_1_8_5_OR_NEWER</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+>>>>>>> 28746ba3a616a7cfef54c0aaae78f2e303a02d5f
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -37,8 +47,13 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD
     <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_4;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VIDEO;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_VSTU;CROSS_PLATFORM_INPUT;PLAYMAKER;PLAYMAKER_1_8;PLAYMAKER_1_8_9;PLAYMAKER_1_8_OR_NEWER;PLAYMAKER_1_8_5_OR_NEWER</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+=======
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_1;UNITY_2017_1;UNITY_2017;PLATFORM_ARCH_64;UNITY_64;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;CROSS_PLATFORM_INPUT;PLAYMAKER;PLAYMAKER_1_8;PLAYMAKER_1_8_9;PLAYMAKER_1_8_OR_NEWER;PLAYMAKER_1_8_5_OR_NEWER</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+>>>>>>> 28746ba3a616a7cfef54c0aaae78f2e303a02d5f
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
@@ -49,17 +64,38 @@
     <Reference Include="UnityScript.Lang" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
+<<<<<<< HEAD
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+=======
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+>>>>>>> 28746ba3a616a7cfef54c0aaae78f2e303a02d5f
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
+<<<<<<< HEAD
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PlaymodeTestsRunner">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+=======
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Timeline">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Timeline.dll</HintPath>
+>>>>>>> 28746ba3a616a7cfef54c0aaae78f2e303a02d5f
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
@@ -87,6 +123,53 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\_Scripts\LivesManager.cs" />
+    <Compile Include="Assets\_Scripts\MenuSystem.cs" />
+    <Compile Include="Assets\_Scripts\PlayerSelect.cs" />
+    <Compile Include="Assets\_Scripts\ReturnToMenu.cs" />
+    <Compile Include="Assets\_Scripts\RpmMechanic.cs" />
+    <Compile Include="Assets\_Scripts\SpawnerMaster.cs" />
+    <Compile Include="Assets\_Scripts\SpawningBase.cs" />
+    <Compile Include="Assets\_Scripts\torque rotation script.cs" />
+    <Compile Include="Assets\_Scripts\TurretSpawn.cs" />
+    <Compile Include="Assets\_Scripts\TurretSpawnMaster.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\GameManager.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\GameOver.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\Health.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\MoveForward.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\ObjectPooler.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\PoolingManager.cs" />
+    <Compile Include="Assets\brians base code\#GameScripts\Respawn.cs" />
+    <Compile Include="Assets\brians base code\ActivateScriptOnTrigger.cs" />
+    <Compile Include="Assets\brians base code\AimAtPlayer.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\AutoShoot.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\BurstFireCannon.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\DamageOnCol.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\DisableOnOffscreen.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\HitNearestTarget.cs" />
+    <Compile Include="Assets\brians base code\BulletScripts\Shoot.cs" />
+    <Compile Include="Assets\brians base code\DisableOverTime.cs" />
+    <Compile Include="Assets\brians base code\DropLoot.cs" />
+    <Compile Include="Assets\brians base code\EnemyMovement\FlightPath.cs" />
+    <Compile Include="Assets\brians base code\EnemyMovement\MoveBackandForth.cs" />
+    <Compile Include="Assets\brians base code\EnemyMovement\TestMove.cs" />
+    <Compile Include="Assets\brians base code\EnemyMovement\ZigZag.cs" />
+    <Compile Include="Assets\brians base code\Loot.cs" />
+    <Compile Include="Assets\brians base code\PlayerScripts\DeathOnEnemyCol.cs" />
+    <Compile Include="Assets\brians base code\PlayerScripts\PlayerMovement.cs" />
+    <Compile Include="Assets\brians base code\PlayerScripts\PlayerProgression.cs" />
+    <Compile Include="Assets\brians base code\PlayerScripts\PlayerWeapons.cs" />
+    <Compile Include="Assets\brians base code\RandomDirForce.cs" />
+    <Compile Include="Assets\brians base code\RandomSpeed.cs" />
+    <Compile Include="Assets\brians base code\RotateTurretOverTime.cs" />
+    <Compile Include="Assets\brians base code\SineWave.cs" />
+    <Compile Include="Assets\brians base code\StatusChangeScripts\PowerDownOnCol.cs" />
+    <Compile Include="Assets\brians base code\StatusChangeScripts\Powerup.cs" />
+    <Compile Include="Assets\brians base code\WaveSpawner.cs" />
+    <Compile Include="Assets\iTween\iTween.cs" />
+>>>>>>> 28746ba3a616a7cfef54c0aaae78f2e303a02d5f
     <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateColor.cs" />
     <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateFloat.cs" />
     <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateFloatV2.cs" />

@@ -12,10 +12,11 @@ public class Health : MonoBehaviour {
         currentHealth = maxHealth;
     }
     public void TakeDamage(int damage) {
-        //Debug.Log(gameObject.name + " has taken " + damage + " points of damage");
+
         currentHealth -= damage;
         if (this.currentHealth <= 0 && this.gameObject.tag == "Player") {
-            //Debug.Log("PlayerDies");
+
+            this.gameObject.SetActive(false);
             currentHealth = maxHealth;
             GameManager.Instance.CallPlayerDeath();
         }

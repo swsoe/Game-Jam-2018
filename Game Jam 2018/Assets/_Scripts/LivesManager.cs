@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class LivesManager : MonoBehaviour {
 
-    [SerializeField] int currentLives;
+    public int currentLives;
     [SerializeField] int maxLives = 3;
     public Text livesRemaining;
 
@@ -26,27 +26,27 @@ public class LivesManager : MonoBehaviour {
 	void Update () {
   
 	}
-    void LoseLife() {
-        currentLives--;
-        UpdateDisplay();
-        if(currentLives <= 0) {
-            GameOver();
-        }
-    }
+   
 
     void GameOver() {
+       
         Debug.Log("gameover");
     }
 
     void UpdateDisplay() {
-        if(currentLives > 0) {
+        if(currentLives >= 0) {
             livesRemaining.text = "Lives: " + currentLives;
         }
         
     }
     public void PlayerDies() {
         //play death animation and sound effects
-        LoseLife();
+        currentLives--;
+        
+        UpdateDisplay();
+        if (currentLives <= 0) {
+            GameOver();
+        }
         if (this.gameObject.tag == "Player") {
 
             this.gameObject.SetActive(false);
