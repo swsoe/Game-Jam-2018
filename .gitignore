@@ -27,7 +27,8 @@ sysinfo.txt
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -61,3 +62,5 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+Game Jam 2018/Game Jam 2018.csproj
+Game Jam 2018/Game Jam 2018.sln
