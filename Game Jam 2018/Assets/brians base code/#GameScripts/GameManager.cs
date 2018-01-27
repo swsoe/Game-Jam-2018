@@ -26,8 +26,6 @@ public  class GameManager : MonoBehaviour {
     public static event PlayerHealthEvents RespawnPlayer;
     public static event PlayerHealthEvents GameOver;
 
-    public delegate void LootEvents();
-    public static event  LootEvents SpawnLoot;
 
 
     #endregion
@@ -69,12 +67,10 @@ public  class GameManager : MonoBehaviour {
         EarnedPoints(pointsToGive);
     }
 
-    public void CallSpawnLoot() {
-        SpawnLoot();
-    }
+    
 
     public void CallEarnedCredits(int CreditsToGive) {
-        EarnedCredits(CreditsToGive);
+        //EarnedCredits(CreditsToGive);
     }
 
     public void CallUpdateProgress(int creditsEarned) {

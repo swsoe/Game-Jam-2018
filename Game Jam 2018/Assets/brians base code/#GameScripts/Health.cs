@@ -56,7 +56,7 @@ public class Health : MonoBehaviour {
             int pointsToGive = (int)(maxHealth * GameManager.Instance.pointModifier);
             GameManager.Instance.CallEarnedPoints(pointsToGive);
 
-            GameManager.Instance.CallSpawnLoot();
+
             Destroy(this.gameObject);
         
       //  }
