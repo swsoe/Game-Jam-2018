@@ -234,7 +234,10 @@
     <Compile Include="Assets\_Scripts\MenuSystem.cs" />
     <Compile Include="Assets\_Scripts\PlayerSelect.cs" />
     <Compile Include="Assets\_Scripts\RpmMechanic.cs" />
+    <Compile Include="Assets\_Scripts\SpawningBase.cs" />
     <Compile Include="Assets\_Scripts\torque rotation script.cs" />
+    <Compile Include="Assets\_Scripts\TurretSpawn.cs" />
+    <Compile Include="Assets\_Scripts\TurretSpawnMaster.cs" />
     <Compile Include="Assets\brians base code\%23GameScripts\GameManager.cs" />
     <Compile Include="Assets\brians base code\%23GameScripts\GameOver.cs" />
     <Compile Include="Assets\brians base code\%23GameScripts\Health.cs" />
