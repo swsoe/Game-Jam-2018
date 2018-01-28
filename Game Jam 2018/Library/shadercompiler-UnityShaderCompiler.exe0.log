@@ -1,0 +1,508 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=9310 outsize=1776 ok=1
+Cmd: preprocess
+  insize=11112 outsize=650 ok=1
+Cmd: preprocess
+  insize=1484 outsize=525 ok=1
+Cmd: preprocess
+  insize=435 outsize=435 ok=1
+Cmd: preprocess
+  insize=1615 outsize=1854 ok=1
+Cmd: preprocess
+  insize=1214 outsize=427 ok=1
+Cmd: preprocess
+  insize=11398 outsize=721 ok=1
+Cmd: preprocess
+  insize=1772 outsize=386 ok=1
+Cmd: preprocess
+  insize=1013 outsize=382 ok=1
+Cmd: preprocess
+  insize=1076 outsize=341 ok=1
+Cmd: preprocess
+  insize=2050 outsize=435 ok=1
+Cmd: preprocess
+  insize=1469 outsize=439 ok=1
+Cmd: preprocess
+  insize=4008 outsize=628 ok=1
+Cmd: preprocess
+  insize=1454 outsize=1799 ok=1
+Cmd: preprocess
+  insize=1313 outsize=436 ok=1
+Cmd: preprocess
+  insize=6716 outsize=704 ok=1
+Cmd: preprocess
+  insize=1384 outsize=341 ok=1
+Cmd: preprocess
+  insize=1044 outsize=940 ok=1
+Cmd: preprocess
+  insize=2995 outsize=709 ok=1
+Cmd: preprocess
+  insize=966 outsize=329 ok=1
+Cmd: preprocess
+  insize=1596 outsize=417 ok=1
+Cmd: preprocess
+  insize=1460 outsize=294 ok=1
+Cmd: preprocess
+  insize=1951 outsize=307 ok=1
+Cmd: preprocess
+  insize=2462 outsize=1143 ok=1
+Cmd: preprocess
+  insize=1492 outsize=381 ok=1
+Cmd: preprocess
+  insize=1406 outsize=356 ok=1
+Cmd: preprocess
+  insize=2381 outsize=671 ok=1
+Cmd: preprocess
+  insize=1049 outsize=304 ok=1
+Cmd: preprocess
+  insize=701 outsize=270 ok=1
+Cmd: preprocess
+  insize=6693 outsize=927 ok=1
+Cmd: preprocess
+  insize=2320 outsize=1026 ok=1
+Cmd: preprocess
+  insize=32943 outsize=307 ok=1
+Cmd: preprocess
+  insize=1282 outsize=294 ok=1
+Cmd: preprocess
+  insize=4454 outsize=492 ok=1
+Cmd: preprocess
+  insize=1075 outsize=300 ok=1
+Cmd: preprocess
+  insize=5910 outsize=1510 ok=1
+Cmd: preprocess
+  insize=13460 outsize=1722 ok=1
+Cmd: preprocess
+  insize=1108 outsize=385 ok=1
+Cmd: preprocess
+  insize=6286 outsize=656 ok=1
+Cmd: preprocess
+  insize=2917 outsize=686 ok=1
+Cmd: preprocess
+  insize=11839 outsize=2503 ok=1
+Cmd: preprocess
+  insize=2784 outsize=1208 ok=1
+Cmd: preprocess
+  insize=13949 outsize=2011 ok=1
+Cmd: preprocess
+  insize=1992 outsize=457 ok=1
+Cmd: preprocess
+  insize=1651 outsize=694 ok=1
+Cmd: preprocess
+  insize=2027 outsize=329 ok=1
+Cmd: preprocess
+  insize=26218 outsize=3456 ok=1
+Cmd: preprocess
+  insize=4085 outsize=519 ok=1
+Cmd: preprocess
+  insize=2224 outsize=332 ok=1
+Cmd: preprocess
+  insize=1251 outsize=383 ok=1
+Cmd: preprocess
+  insize=1257 outsize=455 ok=1
+Cmd: preprocess
+  insize=737 outsize=217 ok=1
+Cmd: preprocess
+  insize=5944 outsize=777 ok=1
+Cmd: preprocess
+  insize=6170 outsize=661 ok=1
+Cmd: preprocess
+  insize=584 outsize=309 ok=1
+Cmd: preprocess
+  insize=7052 outsize=790 ok=1
+Cmd: preprocess
+  insize=1542 outsize=558 ok=1
+Cmd: preprocess
+  insize=32953 outsize=307 ok=1
+Cmd: preprocess
+  insize=5369 outsize=1773 ok=1
+Cmd: preprocess
+  insize=2357 outsize=1088 ok=1
+Cmd: preprocess
+  insize=7020 outsize=288 ok=1
+Cmd: preprocess
+  insize=5582 outsize=438 ok=1
+Cmd: preprocess
+  insize=5402 outsize=812 ok=1
+Cmd: preprocess
+  insize=1393 outsize=436 ok=1
+Cmd: preprocess
+  insize=5978 outsize=1176 ok=1
+Cmd: preprocess
+  insize=799 outsize=338 ok=1
+Cmd: preprocess
+  insize=720 outsize=267 ok=1
+Cmd: preprocess
+  insize=4426 outsize=587 ok=1
+Cmd: preprocess
+  insize=945 outsize=328 ok=1
+Cmd: preprocess
+  insize=1544 outsize=324 ok=1
+Cmd: preprocess
+  insize=2097 outsize=966 ok=1
+Cmd: preprocess
+  insize=5244 outsize=688 ok=1
+Cmd: preprocess
+  insize=1164 outsize=522 ok=1
+Cmd: preprocess
+  insize=1222 outsize=416 ok=1
+Cmd: preprocess
+  insize=595 outsize=293 ok=1
+Cmd: preprocess
+  insize=801 outsize=342 ok=1
+Cmd: preprocess
+  insize=5731 outsize=845 ok=1
+Cmd: preprocess
+  insize=9278 outsize=2054 ok=1
+Cmd: preprocess
+  insize=11359 outsize=706 ok=1
+Cmd: preprocess
+  insize=1292 outsize=477 ok=1
+Cmd: preprocess
+  insize=8733 outsize=728 ok=1
+Cmd: preprocess
+  insize=1768 outsize=404 ok=1
+Cmd: preprocess
+  insize=1002 outsize=407 ok=1
+Cmd: preprocess
+  insize=1089 outsize=368 ok=1
+Cmd: preprocess
+  insize=1989 outsize=454 ok=1
+Cmd: preprocess
+  insize=1374 outsize=464 ok=1
+Cmd: preprocess
+  insize=3645 outsize=699 ok=1
+Cmd: preprocess
+  insize=1266 outsize=348 ok=1
+Cmd: preprocess
+  insize=1318 outsize=460 ok=1
+Cmd: preprocess
+  insize=6632 outsize=721 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=0 insize=1871 outsize=758 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=1 insize=1871 outsize=6026 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=0 insize=2135 outsize=758 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=1 insize=2135 outsize=9914 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=0 insize=2641 outsize=758 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=1 insize=2641 outsize=17690 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (230): 's': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=0 insize=2913 outsize=690 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (230): 's': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=1 insize=2913 outsize=1978 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=0 insize=1853 outsize=706 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (44): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (47): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  error: 1 plat 4 at (50): 'INPUT_SAMPLE_COUNT' : macro redefinition\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME
+  api=4 type=1 insize=1853 outsize=542 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: preprocess
+  insize=1256 outsize=366 ok=1
+Cmd: preprocess
+  insize=2718 outsize=728 ok=1
+Cmd: preprocess
+  insize=1051 outsize=357 ok=1
+Cmd: preprocess
+  insize=1460 outsize=435 ok=1
+Cmd: preprocess
+  insize=1420 outsize=315 ok=1
+Cmd: preprocess
+  insize=1792 outsize=780 ok=1
+Cmd: preprocess
+  insize=1486 outsize=398 ok=1
+Cmd: preprocess
+  insize=1351 outsize=381 ok=1
+Cmd: preprocess
+  insize=2389 outsize=696 ok=1
+Cmd: preprocess
+  insize=1048 outsize=323 ok=1
+Cmd: preprocess
+  insize=790 outsize=288 ok=1
+Cmd: preprocess
+  insize=32719 outsize=325 ok=1
+Cmd: preprocess
+  insize=1299 outsize=312 ok=1
+Cmd: preprocess
+  insize=3684 outsize=661 ok=1
+Cmd: preprocess
+  insize=1083 outsize=301 ok=1
+Cmd: preprocess
+  insize=5439 outsize=1531 ok=1
+Cmd: preprocess
+  insize=11503 outsize=1778 ok=1
+Cmd: preprocess
+  insize=1121 outsize=410 ok=1
+Cmd: preprocess
+  insize=6372 outsize=676 ok=1
+Cmd: preprocess
+  insize=2915 outsize=706 ok=1
+Cmd: preprocess
+  insize=8273 outsize=933 ok=1
+Cmd: preprocess
+  insize=1060 outsize=490 ok=1
+Cmd: preprocess
+  insize=13894 outsize=2326 ok=1
+Cmd: preprocess
+  insize=2033 outsize=509 ok=1
+Cmd: preprocess
+  insize=1775 outsize=354 ok=1
+Cmd: preprocess
+  insize=27352 outsize=4043 ok=1
+Cmd: preprocess
+  insize=4189 outsize=540 ok=1
+Cmd: preprocess
+  insize=2357 outsize=1245 ok=1
+Cmd: preprocess
+  insize=1820 outsize=349 ok=1
+Cmd: preprocess
+  insize=1109 outsize=403 ok=1
+Cmd: preprocess
+  insize=1206 outsize=478 ok=1
+Cmd: preprocess
+  insize=738 outsize=234 ok=1
+Cmd: preprocess
+  insize=5919 outsize=797 ok=1
+Cmd: preprocess
+  insize=5926 outsize=724 ok=1
+Cmd: preprocess
+  insize=586 outsize=328 ok=1
+Cmd: preprocess
+  insize=32729 outsize=325 ok=1
+Cmd: preprocess
+  insize=5232 outsize=1793 ok=1
+Cmd: preprocess
+  insize=6884 outsize=307 ok=1
+Cmd: preprocess
+  insize=4611 outsize=574 ok=1
+Cmd: preprocess
+  insize=5007 outsize=1018 ok=1
+Cmd: preprocess
+  insize=5835 outsize=1225 ok=1
+Cmd: preprocess
+  insize=721 outsize=285 ok=1
+Cmd: preprocess
+  insize=4157 outsize=640 ok=1
+Cmd: preprocess
+  insize=956 outsize=352 ok=1
+Cmd: preprocess
+  insize=1422 outsize=349 ok=1
+Cmd: preprocess
+  insize=2225 outsize=1003 ok=1
+Cmd: preprocess
+  insize=6044 outsize=781 ok=1
+Cmd: preprocess
+  insize=1163 outsize=541 ok=1
+Cmd: preprocess
+  insize=1296 outsize=441 ok=1
+Cmd: preprocess
+  insize=657 outsize=311 ok=1
+Cmd: preprocess
+  insize=807 outsize=367 ok=1
+Cmd: preprocess
+  insize=1810 outsize=735 ok=1
+Cmd: preprocess
+  insize=9278 outsize=2054 ok=1
+Cmd: preprocess
+  insize=11359 outsize=706 ok=1
+Cmd: preprocess
+  insize=1292 outsize=477 ok=1
+Cmd: preprocess
+  insize=8733 outsize=728 ok=1
+Cmd: preprocess
+  insize=1768 outsize=404 ok=1
+Cmd: preprocess
+  insize=1002 outsize=407 ok=1
+Cmd: preprocess
+  insize=1089 outsize=368 ok=1
+Cmd: preprocess
+  insize=1374 outsize=464 ok=1
+Cmd: preprocess
+  insize=3645 outsize=699 ok=1
+Cmd: preprocess
+  insize=1266 outsize=348 ok=1
+Cmd: preprocess
+  insize=1318 outsize=460 ok=1
+Cmd: preprocess
+  insize=6632 outsize=721 ok=1
+Cmd: preprocess
+  insize=1256 outsize=366 ok=1
+Cmd: preprocess
+  insize=2718 outsize=728 ok=1
+Cmd: preprocess
+  insize=1051 outsize=357 ok=1
+Cmd: preprocess
+  insize=1460 outsize=435 ok=1
+Cmd: preprocess
+  insize=1792 outsize=780 ok=1
+Cmd: preprocess
+  insize=1486 outsize=398 ok=1
+Cmd: preprocess
+  insize=1351 outsize=381 ok=1
+Cmd: preprocess
+  insize=2389 outsize=696 ok=1
+Cmd: preprocess
+  insize=1048 outsize=323 ok=1
+Cmd: preprocess
+  insize=32719 outsize=325 ok=1
+Cmd: preprocess
+  insize=1299 outsize=312 ok=1
+Cmd: preprocess
+  insize=3684 outsize=661 ok=1
+Cmd: preprocess
+  insize=1083 outsize=301 ok=1
+Cmd: preprocess
+  insize=5439 outsize=1531 ok=1
+Cmd: preprocess
+  insize=11503 outsize=1778 ok=1
+Cmd: preprocess
+  insize=1121 outsize=410 ok=1
+Cmd: preprocess
+  insize=6372 outsize=676 ok=1
+Cmd: preprocess
+  insize=2915 outsize=706 ok=1
+Cmd: preprocess
+  insize=8273 outsize=933 ok=1
+Cmd: preprocess
+  insize=1060 outsize=490 ok=1
+Cmd: preprocess
+  insize=13894 outsize=2326 ok=1
+Cmd: preprocess
+  insize=2033 outsize=509 ok=1
+Cmd: preprocess
+  insize=1775 outsize=354 ok=1
+Cmd: preprocess
+  insize=27352 outsize=4043 ok=1
+Cmd: preprocess
+  insize=4189 outsize=540 ok=1
+Cmd: preprocess
+  insize=2357 outsize=1245 ok=1
+Cmd: preprocess
+  insize=1820 outsize=349 ok=1
+Cmd: preprocess
+  insize=1109 outsize=403 ok=1
+Cmd: preprocess
+  insize=1206 outsize=478 ok=1
+Cmd: preprocess
+  insize=5919 outsize=797 ok=1
+Cmd: preprocess
+  insize=5926 outsize=724 ok=1
+Cmd: preprocess
+  insize=32729 outsize=325 ok=1
+Cmd: preprocess
+  insize=5232 outsize=1793 ok=1
+Cmd: preprocess
+  insize=6884 outsize=307 ok=1
+Cmd: preprocess
+  insize=4611 outsize=574 ok=1
+Cmd: preprocess
+  insize=5007 outsize=1018 ok=1
+Cmd: preprocess
+  insize=5835 outsize=1225 ok=1
+Cmd: preprocess
+  insize=4157 outsize=640 ok=1
+Cmd: preprocess
+  insize=956 outsize=352 ok=1
+Cmd: preprocess
+  insize=1422 outsize=349 ok=1
+Cmd: preprocess
+  insize=2225 outsize=1003 ok=1
+Cmd: preprocess
+  insize=6044 outsize=781 ok=1
+Cmd: preprocess
+  insize=1163 outsize=541 ok=1
+Cmd: preprocess
+  insize=1296 outsize=441 ok=1
+Cmd: preprocess
+  insize=657 outsize=311 ok=1
+Cmd: preprocess
+  insize=807 outsize=367 ok=1
+Cmd: preprocess
+  insize=1810 outsize=735 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1468 outsize=1950 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1468 outsize=7166 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1330 outsize=1746 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1330 outsize=3682 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13897 outsize=2182 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13897 outsize=1434 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4033 outsize=1514 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4033 outsize=1298 kw=DIRECTIONAL FOG_EXP2 pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2259 outsize=790 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2259 outsize=402 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
