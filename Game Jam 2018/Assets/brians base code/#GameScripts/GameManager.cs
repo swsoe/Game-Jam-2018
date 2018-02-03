@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public  class GameManager : MonoBehaviour {
+public class GameManager : MonoBehaviour
+{
 
-#region Var Declarations
+    #region Var Declarations
     public float respawnTime = 2f;
     public float pointModifier = 1.0f;
     public Text txtPoints;
@@ -29,22 +30,29 @@ public  class GameManager : MonoBehaviour {
 
 
     #endregion
-    private void OnEnable() {
+    public GameObject player;
+    private void OnEnable()
+    {
         EarnedCredits += GiveCredits;
     }
 
-    private void OnDisable() {
+    private void OnDisable()
+    {
         EarnedCredits -= GiveCredits;
     }
 
     #region Singleton
     private static GameManager instance = null;
-    public static GameManager Instance {
+    public static GameManager Instance
+    {
         get { return instance; }
     }
 
-    void Awake() {
-        if (instance != null && instance != this) {
+    void Awake()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+        if (instance != null && instance != this)
+        {
             Destroy(this.gameObject);
             return;
         }
@@ -53,69 +61,87 @@ public  class GameManager : MonoBehaviour {
         }
         DontDestroyOnLoad(this.gameObject);
         EarnedPoints += GivePoints;
-        txtPoints.text = currentPoints.ToString();
+        //txtPoints.text = currentPoints.ToString();
     }
     #endregion
 
-    private void Start() {
-     
+    private void Start()
+    {
+
         playerLives = maxLives;
-      
+
         //progression = GetComponent<PlayerProgression>();
     }
 
-    public void CallEarnedPoints(int pointsToGive) {
+    public void CallEarnedPoints(int pointsToGive)
+    {
         EarnedPoints(pointsToGive);
     }
 
-    
 
-    public void CallEarnedCredits(int CreditsToGive) {
+
+    public void CallEarnedCredits(int CreditsToGive)
+    {
         //EarnedCredits(CreditsToGive);
     }
 
-    public void CallUpdateProgress(int creditsEarned) {
+    public void CallUpdateProgress(int creditsEarned)
+    {
         UpdateProgress(creditsEarned);
     }
 
-    public void GivePoints(int pointsToGive) {
+    public void GivePoints(int pointsToGive)
+    {
         currentPoints += pointsToGive;
-        txtPoints.text = currentPoints.ToString();
+        //txtPoints.text = currentPoints.ToString();
     }
 
-    public void GiveCredits(int creditsToGive) {
+    public void GiveCredits(int creditsToGive)
+    {
         currentCredits += creditsToGive;
         txtCredits.text = currentCredits.ToString();
     }
 
 
-    public void CallPlayerDeath() {
+    public void CallPlayerDeath()
+    {
         PlayerDeath();
-       bool lastLife = LoseLife();
-        if (!lastLife) {
+        bool lastLife = LoseLife();
+        if (!lastLife)
+        {
             StartCoroutine(WaitForRespawn());
             //TODO update life display
         }
-      
+
     }
 
-    public void CallGameOver() {
+    public void CallGameOver()
+    {
         GameOver();
     }
-         IEnumerator WaitForRespawn() {
+
+    IEnumerator WaitForRespawn()
+    {
+
+        player.SetActive(false);
         yield return new WaitForSeconds(respawnTime);
-        //Debug.Log("Calling the delegate");
+        Debug.Log("Calling the delegate");
+        player.SetActive(true);
         RespawnPlayer();
     }
 
-
-    bool LoseLife() {
-        bool isGameOver = false;
-        playerLives = GameObject.FindObjectOfType<LivesManager>().currentLives;
-        if(playerLives <= 0) {
-            isGameOver = true;
-            return isGameOver;
-        }
+bool LoseLife()
+{
+    bool isGameOver = false;
+    playerLives = GameObject.FindObjectOfType<LivesManager>().currentLives;
+    if (playerLives <= 0)
+    {
+        isGameOver = true;
         return isGameOver;
     }
+    return isGameOver;
 }
+}
+
+
+

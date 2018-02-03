@@ -27,7 +27,7 @@ namespace Assets._Scripts
 
         void SpawnSomeEnemies()
         {
-            int level = r.Next(1, enemySpawners.Count);
+            int level =  r.Next(1, enemySpawners.Count);
             //Debug.Log("Spawning " + level + " enemies");
             for (int i = 0; i < level; i++)
             {

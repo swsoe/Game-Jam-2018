@@ -22,16 +22,11 @@ public class TurretSpawnMaster : Assets._Scripts.SpawningBase
 
     public override IEnumerator Spawn()
     {
-        //Debug.Log("Spawning turrets");
-        int i = r.Next(1, turrets.Count);
         foreach (GameObject T in turrets)
         {
-            if (i <= 0)
-                break;
-
+            Debug.Log("Spawning turrets");
             T.GetComponent<TurretSpawn>().Spawn();
-            yield return new WaitForSeconds(0f);
-            i--;
+            yield return new WaitForSeconds(1f);
         }
 
     }

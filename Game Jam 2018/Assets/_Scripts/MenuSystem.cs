@@ -6,17 +6,17 @@ using UnityEngine.SceneManagement;
 public class MenuSystem : MonoBehaviour {
     public GameObject[] playerPrefab;
     [SerializeField] int selectedPlayer;
+
     List<GameObject> menuItems;
     List<GameObject> aboutItems;
-
 
     void Start()
     {
         menuItems = new List<GameObject>(GameObject.FindGameObjectsWithTag("MenuItems"));
         aboutItems = new List<GameObject>(GameObject.FindGameObjectsWithTag("AboutItems"));
 
-        foreach (GameObject g in aboutItems)
-            g.SetActive(false);
+        foreach (GameObject go in aboutItems)
+            go.SetActive(false);
     }
 
     public void Razer() {
@@ -40,25 +40,17 @@ public class MenuSystem : MonoBehaviour {
     public void AboutButton()
     {
         foreach (GameObject go in menuItems)
-        {
             go.SetActive(false);
-        }
         foreach (GameObject go in aboutItems)
-        {
             go.SetActive(true);
-        }
     }
 
     public void AboutBackButton()
     {
         foreach (GameObject go in menuItems)
-        {
             go.SetActive(true);
-        }
         foreach (GameObject go in aboutItems)
-        {
             go.SetActive(false);
-        }
     }
 }
 

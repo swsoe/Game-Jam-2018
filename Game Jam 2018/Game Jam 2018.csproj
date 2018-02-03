@@ -868,6 +868,7 @@
     <Compile Include="Assets\_Scripts\SpawningBase.cs" />
     <Compile Include="Assets\_Scripts\TurretSpawn.cs" />
     <Compile Include="Assets\_Scripts\TurretSpawnMaster.cs" />
+    <Compile Include="Assets\_Scripts\rotatingPlayerSelect.cs" />
     <Compile Include="Assets\_Scripts\torque rotation script.cs" />
     <Compile Include="Assets\brians base code\#GameScripts\GameManager.cs" />
     <Compile Include="Assets\brians base code\#GameScripts\GameOver.cs" />

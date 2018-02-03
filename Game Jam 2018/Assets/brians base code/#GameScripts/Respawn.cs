@@ -8,8 +8,10 @@ public class Respawn: MonoBehaviour {
     public GameObject player;
 
     private void OnEnable() {
-        if(player == null) {
+        playerRespawnPoint = GameObject.Find("PlayerSpawn").transform;
+        if (player == null) {
             player = FindObjectOfType<PlayerMovement>().gameObject;
+      
         }
         if (playerRespawnPoint == null) {
             Debug.LogWarning("No Respawn Detected, set it in the Inspecter");

@@ -1,23 +1,35 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Health : MonoBehaviour {
 
     [SerializeField]
-    public int currentHealth;
-    public int maxHealth;
+    public float currentHealth;
+    public float maxHealth;
+    public Slider healthSlider;
 
+    private void Awake() {
+        healthSlider = GameObject.Find("HealthSlider").GetComponent<Slider>();
+        healthSlider.value = 1;
+    }
     private void Start() {
         currentHealth = maxHealth;
     }
     public void TakeDamage(int damage) {
-
+        //Debug.Log(gameObject.name + " has taken " + damage + " points of damage");
         currentHealth -= damage;
-        if (this.currentHealth <= 0 && this.gameObject.tag == "Player") {
 
-            this.gameObject.SetActive(false);
+        if (this.gameObject.tag == "Player")
+            healthSlider.value = calculateUI();
+
+        if (this.currentHealth <= 0 && this.gameObject.tag == "Player") {
+            //Debug.Log("PlayerDies");
             currentHealth = maxHealth;
+            healthSlider.value = calculateUI();
+            Shoot s = this.gameObject.GetComponentInChildren<Shoot>();
+            s.shooting = false;
             GameManager.Instance.CallPlayerDeath();
         }
         else if (this.currentHealth <= 0 && this.gameObject.tag != "Player") {
@@ -33,12 +45,17 @@ public class Health : MonoBehaviour {
         // Modify the points for each enemy based on health
        // if (this.tag != "Player") {
             currentHealth = 0;
-            int pointsToGive = (int)(maxHealth * GameManager.Instance.pointModifier);
-            GameManager.Instance.CallEarnedPoints(pointsToGive);
+            //int pointsToGive = (int)(maxHealth * GameManager.Instance.pointModifier);
+            //GameManager.Instance.CallEarnedPoints(pointsToGive);
             Destroy(this.gameObject);
         
       //  }
-    }    
+    }
 
-  
-  }
+    float calculateUI() {
+
+        return currentHealth / maxHealth;
+       
+    }
+
+}
